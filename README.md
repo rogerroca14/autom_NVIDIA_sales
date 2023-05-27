@@ -1,2 +1,4 @@
 # Automatizacion de reportes de venta para la proveedora NVIDIA
 Automatización de reporte para la marca NVIDIA (GPU's) a partir de registros de venta general de una tienda de computo en xlsx (con formato de filas poco accesible)
+
+> :warning: **Sobre los datos de ejemplo 'Pedidos2.xlsx'**: Los datos de ejemplo de la ruta \Pedidos\Pedidos2.xlsx, han sido extraidos de un registro real de abril de 2023 de una tienda de computo real, los datos de los clientes como sus nombres, DNI/RUC, telefonos y correos electronicos fueron reemplazados por valores aleatorios con fines de ejemplo de este ejercicio.
